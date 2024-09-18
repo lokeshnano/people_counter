@@ -1,0 +1,53 @@
+body{
+    background-color: aqua;
+    background: rgb(213, 213, 217);
+    /* padding: 100px; */
+}
+
+.counter_div{
+
+    max-width: 80%;
+    margin: auto;
+    border: 4px solid rebeccapurple;
+    border-radius: 4px;
+
+}
+
+h1{
+    /* background: green; */
+    margin: 10px;
+    border-radius: 20px;
+    padding-left: 550px;
+  
+}
+
+h2{
+    /* background: green; */
+    margin: 10px;
+    margin-left: 650px;
+}
+button{
+
+    width: 500px;
+    height: 50px;
+    background:brown;
+    /* padding: 100px; */
+    margin: 10px 10px 10px;
+    margin-left: 400px
+    
+   
+}
+#increment_btn{
+    background-color: red;
+    border-radius: 10px;
+}
+
+#sace_btn{
+    background-color:greenyellow;
+    border-radius: 10px;
+}
+
+h3{
+    margin-left: 450px;
+    
+}
